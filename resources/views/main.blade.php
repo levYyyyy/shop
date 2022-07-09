@@ -2,7 +2,6 @@
 
 @section('content')
 <div class="container" style="display: flex; flex-wrap: wrap">
-    
     @foreach($item as $key => $data)
     <div class="row justify-content-center" style="margin: 20px">
         <div class="col-md-8">
